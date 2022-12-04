@@ -1,0 +1,7 @@
+class test
+{
+public statuc void main(String args[])
+{
+syso{"siva"};
+}
+}
